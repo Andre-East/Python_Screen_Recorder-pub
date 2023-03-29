@@ -36,10 +36,10 @@ file_name = f'{name}.mp4'
 fourcc = cv2.VideoWriter_fourcc('m', 'p', '4', 'v')
 
 # This line is used to write/create the video 
-captured_video = cv2.VideoWriter(file_name, fourcc, 8.9, (width, height))
+captured_video = cv2.VideoWriter(file_name, fourcc, 7.9, (width, height))
 
 # Vairables that will be intialized to help manage the speed of the recording
-fps = 120
+fps = 60
 prev = 0
 
 # This while loop will continuously take screenshots/record video until we end the recording 
