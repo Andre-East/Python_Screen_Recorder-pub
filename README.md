@@ -1,15 +1,14 @@
 # python_screen_recorder
 
-## Description
+## Description/Usage
 
-This is a beginner level python project that I created to record my other projects. It has different implementations of creating a commandline executable Python screen recorder (without audo) for Windows enviroments.
-
-## Usage
+This is a beginner level python project that I created to record my other projects. It is a commandline executable Python screen recorder (without audo) for Windows enviroments.
 
 
 ## Instructions
 
 Simply download any of the scripts and save it as a ".py" file and exceute it from the terminal by calling <b>python "py_script_name.py"</b>. Once your are done recording hit the "q" key to terminate or end the script/recording.
+
 
 
 ## Required Modules
