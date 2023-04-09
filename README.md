@@ -9,9 +9,9 @@ This is a beginner level python project that I created to record my other projec
 ## Instructions
 <ul>
 <li>Simply copy the script and save it as a ".py" file as well as the icon in the "icon" folder.</li>
-<li>Update the absolute path for the the icon "icon=r..."</li> 
+<li>Update the absolute path for the the icon that is used in the windows toater notification</li> 
 
-<img src="https://user-images.githubusercontent.com/68747084/230797965-ac31bd7b-d50e-4b2e-86fd-7a8a0e9894f4.png" width="500px" height="400px">
+<img src="https://user-images.githubusercontent.com/68747084/230797965-ac31bd7b-d50e-4b2e-86fd-7a8a0e9894f4.png" width="550px" height="400px">
 
 <li>Update the absolute path for where the recordings are stored</li> 
 
