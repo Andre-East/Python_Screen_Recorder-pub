@@ -4,7 +4,7 @@
 
 This is a beginner level python project that I created to record my other projects. It is a commandline executable Python screen recorder (without audo) for Windows enviroments.
 
-![sample4](https://user-images.githubusercontent.com/68747084/230795930-c58aebdc-7931-454c-af63-2353632a58ce.gif)
+![sample5](https://user-images.githubusercontent.com/68747084/230796396-5dcfda01-609c-487e-811c-b21fecf12637.gif)
 
 ## Instructions
 
