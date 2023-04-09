@@ -20,6 +20,9 @@ This is a beginner level python project that I created to record my other projec
 <li>Once your are done recording hit the "q" key to terminate or end the script/recording.</li>
 </ul>
 
+
+
+
 ## Required Modules
 ```python
 from PIL import ImageGrab 
@@ -34,9 +37,17 @@ from winotify import Notification, audio
 from pathlib import Path
 ```
 
-## Note
 
-You will need to update the path to 
+
+## Features
+<ul>
+<li>Allows recording for a dual monitor recording for monitors of different dimensions</li>
+<li>Continous recording until terminations</li>
+<li>Script can be mondified to store video file in a different location</li> 
+<li>Provides a windows toast notification upon completion of recording (whether files saved succesfully or failed)</li>
+</ul>
+
+
 
 <hr>
 Open to any suggestions that can improve the performance
