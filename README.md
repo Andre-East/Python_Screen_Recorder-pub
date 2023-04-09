@@ -10,9 +10,9 @@ This is a beginner level python project that I created to record my other projec
 
 <ul>
 <li>Simply copy the script and save it as a ".py" file as well as the icon in the "icon" folder.</li> 
-<li>Update the absolute path for the the icon 
+<li>Update the absolute path for the the icon</li>
 ![update_for_icon](https://user-images.githubusercontent.com/68747084/230797280-845e9f55-8f6a-4267-a93c-622b5637058c.png)
-![update_for_icon2](https://user-images.githubusercontent.com/68747084/230797281-f2400349-a5a7-4fbc-9214-e1f4da17e074.png)</li>
+![update_for_icon2](https://user-images.githubusercontent.com/68747084/230797281-f2400349-a5a7-4fbc-9214-e1f4da17e074.png)
 <li>Update the absolute path for where the recordings are stored </li>
 <li>You exceute it from the terminal by calling <b>python "\path\to\file\py_script_name.py"</b>. </li>
 <li>Once your are done recording hit the "q" key to terminate or end the script/recording.</li>
