@@ -13,7 +13,7 @@ Update the absolute path for the the icon
 
 <!-- ![update_for_icon](https://user-images.githubusercontent.com/68747084/230797280-845e9f55-8f6a-4267-a93c-622b5637058c.png ) -->
 
-<img src="https://user-images.githubusercontent.com/68747084/230797280-845e9f55-8f6a-4267-a93c-622b5637058c.png" width="300px" height="200px">
+<img src="https://user-images.githubusercontent.com/68747084/230797280-845e9f55-8f6a-4267-a93c-622b5637058c.png" width="400px" height="200px">
 
 
 <!-- ![update_for_icon2](https://user-images.githubusercontent.com/68747084/230797281-f2400349-a5a7-4fbc-9214-e1f4da17e074.png) -->
