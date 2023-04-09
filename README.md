@@ -25,16 +25,16 @@ This is a beginner level python project that I created to record my other projec
 
 ## Required Modules
 ```python
-from PIL import ImageGrab 
-import numpy as np
-import cv2 
-import ctypes 
-from datetime import datetime 
-import time 
-from functools import partial
-import keyboard
-from winotify import Notification, audio
-from pathlib import Path
+from PIL import ImageGrab      #https://pypi.org/project/Pillow/ 
+import numpy as np     #https://numpy.org/
+import cv2      #https://pypi.org/project/opencv-python/
+import ctypes     #https://docs.python.org/3/library/ctypes.html
+from datetime import datetime      #https://docs.python.org/3/library/datetime.html
+import time     #https://docs.python.org/3/library/time.html
+from functools import partial      #https://docs.python.org/3/library/functools.html
+import keyboard     #https://pypi.org/project/keyboard/
+from winotify import Notification, audio       #https://pypi.org/project/winotify/
+from pathlib import Path     #https://docs.python.org/3/library/pathlib.html
 ```
 
 
