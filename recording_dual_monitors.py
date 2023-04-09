@@ -10,6 +10,7 @@ import keyboard
 from winotify import Notification, audio
 from pathlib import Path
 
+print("Hit the 'Q' key in order to end recording")
 
 def notify(file_path, name):
     # This if is used to check if the file actually exists after the video had been completed and then 
@@ -31,8 +32,6 @@ def notify(file_path, name):
 
     toast.set_audio(audio.Default, loop=False)
     toast.show()
-
-print("Hit the 'Q' key in order to end recording")
 
 # These lines are used to get the resolution of the monitors from windows  
 user32 = ctypes.windll.user32
