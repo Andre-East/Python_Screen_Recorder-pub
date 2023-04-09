@@ -32,6 +32,8 @@ def notify(file_path, name):
     toast.set_audio(audio.Default, loop=False)
     toast.show()
 
+print("Hit the 'Q' key in order to end recording")
+
 # These lines are used to get the resolution of the monitors from windows  
 user32 = ctypes.windll.user32
 # This line is used to get the combined width of both monitors 
@@ -45,7 +47,7 @@ ImageGrab.grab = partial(ImageGrab.grab, all_screens=True)
 time_stamp = datetime.now().strftime('%Y-%m-%d_%H-%M')
 
 #this line created the file name with the time stamp appended 
-name = 'screen_record'+time_stamp
+name = 'screen_record_'+time_stamp
 
 # This line is used to create the file in the directory of choice 
 file_name = f'D:\Video of Projects and ScreenShots\{name}.mp4'
