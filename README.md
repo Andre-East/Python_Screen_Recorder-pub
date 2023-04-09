@@ -6,6 +6,9 @@ This is a beginner level python project that I created to record my other projec
 
 ![Sample1](https://user-images.githubusercontent.com/68747084/230795037-79d4c714-5255-4243-81b2-b241a5ea483e.gif)
 
+
+![sample2](https://user-images.githubusercontent.com/68747084/230795446-fd86b3cb-33aa-4ecf-9963-f7762438c9b9.gif)
+
 ## Instructions
 
 Simply download any of the scripts and save it as a ".py" file and exceute it from the terminal by calling <b>python "py_script_name.py"</b>. Once your are done recording hit the "q" key to terminate or end the script/recording.
