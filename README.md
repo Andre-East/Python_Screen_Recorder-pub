@@ -8,6 +8,7 @@ This is a beginner level python project that I created to record my other projec
 
 ## Instructions
 
+<<<<<<< HEAD
 
 Simply copy the script and save it as a ".py" file as well as the icon in the "icon" folder.
 Update the absolute path for the the icon 
@@ -17,6 +18,16 @@ Update the absolute path for where the recordings are stored
 You exceute it from the terminal by calling <b>python "\path\to\file\py_script_name.py"</b>. 
 Once your are done recording hit the "q" key to terminate or end the script/recording.
 
+=======
+<ul>
+<li>Simply copy the script and save it as a ".py" file as well as the icon in the "icon" folder.</li> 
+<li>Update the absolute path for the the icon</li>
+![update_for_icon](https://user-images.githubusercontent.com/68747084/230797371-19d41a62-4589-4c78-a05e-cb9c9f8d98ae.png)
+<li>Update the absolute path for where the recordings are stored </li>
+<li>You exceute it from the terminal by calling <b>python "\path\to\file\py_script_name.py"</b>. </li>
+<li>Once your are done recording hit the "q" key to terminate or end the script/recording.</li>
+</ul>
+>>>>>>> 0a256720f76fc5caa215998873806d0c0e012c53
 
 ## Required Modules
 ```python
