@@ -21,14 +21,14 @@ def notify(file_path, name):
             title='Failed Saved',
             msg= name+' has not been saved',
             duration= 'short',
-            icon=r'C:\Users\dreme\OneDrive\Documents\Mind Workout\Programming\local_code\Python\file_cleanup\Icon\python_94570.ico')       
+            icon=r'path/to/icon/python_94570.ico')       
     else:
         toast = Notification(
             app_id= 'PY Screen Recorder',
             title='Sucessfully Saved',
             msg= name+' has been saved',
             duration= 'short',
-            icon=r'C:\Users\dreme\OneDrive\Documents\Mind Workout\Programming\local_code\Python\file_cleanup\Icon\python_94570.ico')
+            icon=r'path/to/icon/python_94570.ico')
 
     toast.set_audio(audio.Default, loop=False)
     toast.show()
