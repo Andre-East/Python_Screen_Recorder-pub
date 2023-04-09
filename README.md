@@ -9,10 +9,9 @@ This is a beginner level python project that I created to record my other projec
 ## Instructions
 <ul>
 <li>Simply copy the script and save it as a ".py" file as well as the icon in the "icon" folder.</li>
-<li>Update the absolute path for the the icon</li> 
+<li>Update the absolute path for the the icon "icon=r..."</li> 
 
-<img src="https://user-images.githubusercontent.com/68747084/230797280-845e9f55-8f6a-4267-a93c-622b5637058c.png" width="500px" height="200px">
-<img src="https://user-images.githubusercontent.com/68747084/230797281-f2400349-a5a7-4fbc-9214-e1f4da17e074.png" width="500px" height="200px">
+<img src="![update_for_icons](https://user-images.githubusercontent.com/68747084/230797965-ac31bd7b-d50e-4b2e-86fd-7a8a0e9894f4.png)" width="500px" height="400px">
 
 <li>Update the absolute path for where the recordings are stored</li> 
 
