@@ -13,9 +13,7 @@ This is a beginner level python project that I created to record my other projec
 
 <img src="https://user-images.githubusercontent.com/68747084/230797965-ac31bd7b-d50e-4b2e-86fd-7a8a0e9894f4.png" width="600px" height="400px">
 
-<li>Update the absolute path for where the recordings are stored</li> 
-
-<li>You exceute it from the terminal by calling <b>python "\path\to\file\py_script_name.py"</b>.</li>
+<li>Exceute the script from the terminal by calling <b>python "\path\to\file\py_script_name.py"</b>.</li>
 
 <li>Once your are done recording hit the "q" key to terminate or end the script/recording.</li>
 </ul>
