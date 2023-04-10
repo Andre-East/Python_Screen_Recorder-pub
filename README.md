@@ -23,7 +23,7 @@ This is a beginner level python project that I created to record my other projec
 
 
 
-## Required Modules
+## Required Libraries
 ```bash
 pip install pillow
 pip install numpy
